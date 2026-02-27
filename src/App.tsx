@@ -141,6 +141,7 @@ export default function App() {
 
   return (
     <div className="h-screen w-screen flex flex-col bg-zinc-950 overflow-hidden">
+    <div className="h-dvh w-screen flex flex-col bg-zinc-950 overflow-hidden">
       {/* Header */}
       <header className="h-16 border-b border-zinc-800 flex items-center justify-between px-6 bg-zinc-900/50 backdrop-blur-xl z-50">
         <div className="flex items-center gap-2">
