@@ -1,0 +1,5 @@
+{
+  "name": "NearHelp",
+  "description": "Real-time emergency community response platform with AI-generated crisis guidance and geospatial SOS broadcasting.",
+  "requestFramePermissions": ["geolocation"]
+}
